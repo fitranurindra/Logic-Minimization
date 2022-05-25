@@ -41,10 +41,19 @@ Oleh Kelompok 6:
 * Case 1 <br>
 Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
-**input :**<br>
+<br>**input :**<br>
 Masukkan Banyak Variabel: 4 <br>
 Masukkan Banyak Minterm Keseluruhan (Termasuk Don't Care Minterm): 7 <br>
 Masukkan Banyak Don't Care Minterm: 0 <br>
 <br>Masukkan Minterm Keseluruhan (Termasuk Don't Care Minterm)!<br>
 <br>Masukkan Indeks Minterm ke-1 (Dalam Urutan Meningkat): 1 <br>
+Masukkan Indeks Minterm ke-2 (Dalam Urutan Meningkat): 3<br>
+Masukkan Indeks Minterm ke-3 (Dalam Urutan Meningkat): 7<br>
+Masukkan Indeks Minterm ke-4 (Dalam Urutan Meningkat): 12<br>
+Masukkan Indeks Minterm ke-5 (Dalam Urutan Meningkat): 13<br>
+Masukkan Indeks Minterm ke-6 (Dalam Urutan Meningkat): 14<br>
+Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 15<br>
+<br>**output :**<br>
+<br>Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
+<br>A'B'D + A'CD + AB<br>
 
