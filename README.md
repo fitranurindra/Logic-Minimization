@@ -41,7 +41,10 @@ Oleh Kelompok 6:
 * Case 1 <br>
 Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
-**input:**<br>
+**input :**<br>
 Masukkan Banyak Variabel: 4 <br>
 Masukkan Banyak Minterm Keseluruhan (Termasuk Don't Care Minterm): 7 <br>
+Masukkan Banyak Don't Care Minterm: 0 <br>
+<br>Masukkan Minterm Keseluruhan (Termasuk Don't Care Minterm)!<br>
+<br>Masukkan Indeks Minterm ke-1 (Dalam Urutan Meningkat): 1 <br>
 
