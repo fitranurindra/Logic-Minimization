@@ -40,8 +40,9 @@ Oleh Kelompok 6:
 ### Contoh Simulasi Program yang Telah Dibuat
 * Case 1 (Tanpa _Don't Care_)<br>
 Misalkan ingin melakukan minimisasi dari fungsi logika berikut <br>
-f(A,B,C,D) = \sum \limits_{i=1}^{n} {x_i}
-Selamat Datang di Program Minimisasi Logic. <br>
+f(A,B,C,D) = m(1,3,7,12,13,14,15)<br>
+Maka _input_ dan _output_ pada programnya adalah sebagai berikut.<br>
+<br>Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
 <br>**input :**<br>
 Masukkan Banyak Variabel: 4 <br>
