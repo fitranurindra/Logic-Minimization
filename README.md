@@ -36,3 +36,10 @@ Oleh Kelompok 6:
 3. Kemudian setelah input yang diberikan sudah valid, maka program simulasi akan memulai proses minimisasi fungsi logika. Proses awal yang akan dilakukan yaitu mengubah indeks minterm yang telah diberikan dalam bentuk desimal menjadi ke dalam bentuk binary. Kemudian algoritma Quine-McCluskey pun akan mulai dilakukan. Mula-mula program akan membuat sebuah tabel awal atau tabel inisialisasi yang berisi minterm yang telah dikelompokkan berdasarkan banyaknya angka 1 dalam representasi binernya. Kemudian program akan mencari setiap pasangan minterm dengan kriteria hanya memiliki 1 buah perbedaan dalam setiap pasangan tersebut. Proses reduksi tersebut akan terus dilakukan hingga diperoleh tabel _prime implicant_ yaitu tabel yang berisi pasangan minterm yang sudah tidak dapat direduksi lagi. Proses selanjutnya adalah mencari set yang terdapat di dalam _prime implicant_ yang mengandung paling sedikit kemungkinan jumlah PI namun mencakup seluruh minterm yang terdapat dalam ekspresi fungsi _boolean algebra_ (proses mencari _minimum cover_) sehingga diperoleh tabel _essential prime implicant_ yang berisi fungsi logika yang telah disederhanakan.
 
 5. Hasil akhir atau _output_ dari simulasi program yang telah dibuat ini adalah berupa fungsi logika yang telah disederhanakan.
+
+### Contoh Simulasi Program yang Telah Dibuat
+* Case 1
+Selamat Datang di Program Minimisasi Logic.
+Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi
+**input:**
+
