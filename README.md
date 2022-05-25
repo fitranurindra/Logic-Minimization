@@ -4,7 +4,7 @@
 
 ```
 Oleh Kelompok 6:
-1. Farhan Hakim Iskandar        / 1322007
+1. Farhan Hakim Iskandar        / 13220007
 2. Fitra Nurindra               / 13220011
 3. Muhammad Daffa Daniswara	/ 13220043
 ```
