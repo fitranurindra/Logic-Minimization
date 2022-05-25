@@ -39,7 +39,9 @@ Oleh Kelompok 6:
 
 ### Contoh Simulasi Program yang Telah Dibuat
 * Case 1 <br>
-Selamat Datang di Program Minimisasi Logic.
-Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi
-**input:**
+Selamat Datang di Program Minimisasi Logic. <br>
+Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
+**input:**<br>
+Masukkan Banyak Variabel: 4 <br>
+Masukkan Banyak Minterm Keseluruhan (Termasuk Don't Care Minterm): 7 <br>
 
