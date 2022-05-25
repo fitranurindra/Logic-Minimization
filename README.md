@@ -66,15 +66,15 @@ Masukkan Banyak Minterm Keseluruhan (Termasuk Don't Care Minterm): 10 <br>
 Masukkan Banyak Don't Care Minterm: 6 <br>
 <br>Masukkan Minterm Keseluruhan (Termasuk Don't Care Minterm)!<br>
 <br>Masukkan Indeks Minterm ke-1 (Dalam Urutan Meningkat): 0 <br>
-Masukkan Indeks Minterm ke-2 (Dalam Urutan Meningkat): 1
-Masukkan Indeks Minterm ke-3 (Dalam Urutan Meningkat): 2
-Masukkan Indeks Minterm ke-4 (Dalam Urutan Meningkat): 3
-Masukkan Indeks Minterm ke-5 (Dalam Urutan Meningkat): 7
-Masukkan Indeks Minterm ke-6 (Dalam Urutan Meningkat): 8
-Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 10
-Masukkan Indeks Minterm ke-8 (Dalam Urutan Meningkat): 11
-Masukkan Indeks Minterm ke-9 (Dalam Urutan Meningkat): 14
-Masukkan Indeks Minterm ke-10 (Dalam Urutan Meningkat): 15
+Masukkan Indeks Minterm ke-2 (Dalam Urutan Meningkat): 1<br>
+Masukkan Indeks Minterm ke-3 (Dalam Urutan Meningkat): 2<br>
+Masukkan Indeks Minterm ke-4 (Dalam Urutan Meningkat): 3<br>
+Masukkan Indeks Minterm ke-5 (Dalam Urutan Meningkat): 7<br>
+Masukkan Indeks Minterm ke-6 (Dalam Urutan Meningkat): 8<br>
+Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 10<br>
+Masukkan Indeks Minterm ke-8 (Dalam Urutan Meningkat): 11<br>
+Masukkan Indeks Minterm ke-9 (Dalam Urutan Meningkat): 14<br>
+Masukkan Indeks Minterm ke-10 (Dalam Urutan Meningkat): 15<br>
 <br>Masukkan Indeks Minterm yang Merupakan Don't Care Minterm!<br>
 <br>Masukkan Indeks Don't Care Minterm ke-1 (Dalam Urutan Meningkat): 1<br>
 Masukkan Indeks Don't Care Minterm ke-2 (Dalam Urutan Meningkat): 2<br>
