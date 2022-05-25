@@ -38,7 +38,7 @@ Oleh Kelompok 6:
 5. Hasil akhir atau _output_ dari simulasi program yang telah dibuat ini adalah berupa fungsi logika yang telah disederhanakan.
 
 ### Contoh Simulasi Program yang Telah Dibuat
-* Case 1 <br>
+* Case 1 (Tanpa _Don't Care_)<br>
 Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
 <br>**input :**<br>
@@ -54,6 +54,35 @@ Masukkan Indeks Minterm ke-5 (Dalam Urutan Meningkat): 13<br>
 Masukkan Indeks Minterm ke-6 (Dalam Urutan Meningkat): 14<br>
 Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 15<br>
 <br>**output :**<br>
-<br>Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
+Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
 <br>A'B'D + A'CD + AB<br>
+
+* Case 2 (Dengan _Don't Care_)<br>
+Selamat Datang di Program Minimisasi Logic. <br>
+Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
+<br>**input :**<br>
+Masukkan Banyak Variabel: 4 <br>
+Masukkan Banyak Minterm Keseluruhan (Termasuk Don't Care Minterm): 10 <br>
+Masukkan Banyak Don't Care Minterm: 6 <br>
+<br>Masukkan Minterm Keseluruhan (Termasuk Don't Care Minterm)!<br>
+<br>Masukkan Indeks Minterm ke-1 (Dalam Urutan Meningkat): 0 <br>
+Masukkan Indeks Minterm ke-2 (Dalam Urutan Meningkat): 1
+Masukkan Indeks Minterm ke-3 (Dalam Urutan Meningkat): 2
+Masukkan Indeks Minterm ke-4 (Dalam Urutan Meningkat): 3
+Masukkan Indeks Minterm ke-5 (Dalam Urutan Meningkat): 7
+Masukkan Indeks Minterm ke-6 (Dalam Urutan Meningkat): 8
+Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 10
+Masukkan Indeks Minterm ke-8 (Dalam Urutan Meningkat): 11
+Masukkan Indeks Minterm ke-9 (Dalam Urutan Meningkat): 14
+Masukkan Indeks Minterm ke-10 (Dalam Urutan Meningkat): 15
+<br>Masukkan Indeks Minterm yang Merupakan Don't Care Minterm!<br>
+<br>Masukkan Indeks Don't Care Minterm ke-1 (Dalam Urutan Meningkat): 1<br>
+Masukkan Indeks Don't Care Minterm ke-2 (Dalam Urutan Meningkat): 2<br>
+Masukkan Indeks Don't Care Minterm ke-3 (Dalam Urutan Meningkat): 7<br>
+Masukkan Indeks Don't Care Minterm ke-4 (Dalam Urutan Meningkat): 8<br>
+Masukkan Indeks Don't Care Minterm ke-5 (Dalam Urutan Meningkat): 11<br>
+Masukkan Indeks Don't Care Minterm ke-6 (Dalam Urutan Meningkat): 14<br>
+<br>**output :**<br>
+Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
+<br>A'B' + AC<br>
 
