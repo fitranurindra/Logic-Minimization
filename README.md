@@ -58,7 +58,7 @@ Masukkan Indeks Minterm ke-6 (Dalam Urutan Meningkat): 14<br>
 Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 15<br>
 <br>**output :**<br>
 Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
-<br>A'B'D + A'CD + AB<br>------------------------------------------------------------------------------------------------------------------------------
+<br>A'B'D + A'CD + AB<br>------------------------------------------------------------------------------------------
 
 * Case 2 (Dengan _Don't Care_)<br>
 Selamat Datang di Program Minimisasi Logic. <br>
