@@ -39,6 +39,8 @@ Oleh Kelompok 6:
 
 ### Contoh Simulasi Program yang Telah Dibuat
 * Case 1 (Tanpa _Don't Care_)<br>
+Misalkan ingin melakukan minimisasi dari fungsi logika berikut <br>
+f(A,B,C,D) = \sum(m(1))
 Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
 <br>**input :**<br>
