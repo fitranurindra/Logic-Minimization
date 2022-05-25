@@ -61,6 +61,9 @@ Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
 <br>A'B'D + A'CD + AB<br>------------------------------------------------------------------------------------------
 
 * Case 2 (Dengan _Don't Care_)<br>
+Misalkan ingin melakukan minimisasi dari fungsi logika berikut <br>
+<br>f(A,B,C,D) = m(0,3,10,15) + d(1,2,7,8,11,14)<br>
+<br>Maka _input_ dan _output_ pada programnya adalah sebagai berikut.<br>------------------------------------------------------------------------------------------
 Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
 <br>**input :**<br>
@@ -87,5 +90,5 @@ Masukkan Indeks Don't Care Minterm ke-5 (Dalam Urutan Meningkat): 11<br>
 Masukkan Indeks Don't Care Minterm ke-6 (Dalam Urutan Meningkat): 14<br>
 <br>**output :**<br>
 Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
-<br>A'B' + AC<br>
+<br>A'B' + AC<br>------------------------------------------------------------------------------------------
 
