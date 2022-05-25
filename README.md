@@ -38,7 +38,7 @@ Oleh Kelompok 6:
 5. Hasil akhir atau _output_ dari simulasi program yang telah dibuat ini adalah berupa fungsi logika yang telah disederhanakan.
 
 ### Contoh Simulasi Program yang Telah Dibuat
-* Case 1
+* Case 1 <br>
 Selamat Datang di Program Minimisasi Logic.
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi
 **input:**
