@@ -64,7 +64,7 @@ Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
 Misalkan ingin melakukan minimisasi dari fungsi logika berikut <br>
 <br>f(A,B,C,D) = m(0,3,10,15) + d(1,2,7,8,11,14)<br>
 <br>Maka _input_ dan _output_ pada programnya adalah sebagai berikut.<br>------------------------------------------------------------------------------------------
-Selamat Datang di Program Minimisasi Logic. <br>
+<br>Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
 <br>**input :**<br>
 Masukkan Banyak Variabel: 4 <br>
