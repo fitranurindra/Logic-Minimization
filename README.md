@@ -40,9 +40,9 @@ Oleh Kelompok 6:
 ### Contoh Simulasi Program yang Telah Dibuat
 * Case 1 (Tanpa _Don't Care_)<br>
 Misalkan ingin melakukan minimisasi dari fungsi logika berikut <br>
-f(A,B,C,D) = m(1,3,7,12,13,14,15)<br>
-Maka _input_ dan _output_ pada programnya adalah sebagai berikut.<br>
----
+<br>f(A,B,C,D) = m(1,3,7,12,13,14,15)<br>
+<br>Maka _input_ dan _output_ pada programnya adalah sebagai berikut.<br>
+```
 <br>Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
 <br>**input :**<br>
@@ -60,7 +60,7 @@ Masukkan Indeks Minterm ke-7 (Dalam Urutan Meningkat): 15<br>
 <br>**output :**<br>
 Fungsi Logika Setelah Minimisasi Dalam Bentuk SOP:<br>
 <br>A'B'D + A'CD + AB<br>
-
+```
 * Case 2 (Dengan _Don't Care_)<br>
 Selamat Datang di Program Minimisasi Logic. <br>
 Silakan Masukkan Informasi Mengenai Ekspresi Logic yang Ingin Diminimisasi <br>
